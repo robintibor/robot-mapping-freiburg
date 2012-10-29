@@ -10,4 +10,16 @@ function [x] = motion_command(x, u)
 
 %TODO: remember to normalize theta by calling the normalize_angle function for x(3)
 
+xPosition = x(1);
+yPosition = x(2);
+angle = normalize_angle(x(3));
+translation = u.t;
+rotation1 = u.r1;
+rotation2 = u.r2;
+
+xPosition = xPosition + translation * cos(angle + rotation1);
+yPosition = yPosition + translation * sin(angle + rotation1);
+angle = angle + rotation1 + rotation2;
+angle = normalize_angle(angle);
+x = [xPosition yPosition angle];
 end
