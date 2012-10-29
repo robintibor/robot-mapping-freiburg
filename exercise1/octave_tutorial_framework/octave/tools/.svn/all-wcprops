@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/lecturematerial-robotmapping/!svn/ver/10/exercises/sheet1_octave/octave_tutorial_framework/octave/tools
+END
+read_data.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/lecturematerial-robotmapping/!svn/ver/10/exercises/sheet1_octave/octave_tutorial_framework/octave/tools/read_data.m
+END
+normalize_angle.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/lecturematerial-robotmapping/!svn/ver/10/exercises/sheet1_octave/octave_tutorial_framework/octave/tools/normalize_angle.m
+END
+chi2invtable.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/lecturematerial-robotmapping/!svn/ver/10/exercises/sheet1_octave/octave_tutorial_framework/octave/tools/chi2invtable.m
+END
+drawellipse.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/lecturematerial-robotmapping/!svn/ver/10/exercises/sheet1_octave/octave_tutorial_framework/octave/tools/drawellipse.m
+END
+drawprobellipse.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/lecturematerial-robotmapping/!svn/ver/10/exercises/sheet1_octave/octave_tutorial_framework/octave/tools/drawprobellipse.m
+END
+plot_state.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/lecturematerial-robotmapping/!svn/ver/10/exercises/sheet1_octave/octave_tutorial_framework/octave/tools/plot_state.m
+END
+normalize_all_bearings.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/lecturematerial-robotmapping/!svn/ver/10/exercises/sheet1_octave/octave_tutorial_framework/octave/tools/normalize_all_bearings.m
+END
+read_world.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/lecturematerial-robotmapping/!svn/ver/10/exercises/sheet1_octave/octave_tutorial_framework/octave/tools/read_world.m
+END
+drawrobot.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/lecturematerial-robotmapping/!svn/ver/10/exercises/sheet1_octave/octave_tutorial_framework/octave/tools/drawrobot.m
+END
